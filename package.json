@@ -1,0 +1,28 @@
+{
+  "name": "buildnpmlibrary",
+  "version": "1.0.0",
+  "description": "Here i build a package for node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjestrada2/buildnpmlibrary.git"
+  },
+  "keywords": [
+    "JavaScripts",
+    "Node",
+    "Package"
+  ],
+  "author": "Juan Jose Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjestrada2/buildnpmlibrary/issues"
+  },
+  "homepage": "https://github.com/jjestrada2/buildnpmlibrary#readme",
+  "dependencies": {
+    "date-fns": "^2.23.0",
+    "moment": "^2.29.1"
+  }
+}
